@@ -23,7 +23,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 ### 开源项目
 - [基于Golang语言作为服务端实现IM聊天接口](https://github.com/taoyao-code/Go-im)
-- [移动端商城](https://github.com/taoyao-code/goframe-shop-mobile)
 
 ### 关于我
 
