@@ -27,6 +27,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 ### 关于我
 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> 
 
 ⭐️ From [taoyao](https://github.com/taoyao-code/)
